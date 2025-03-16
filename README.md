@@ -17,7 +17,7 @@ QR Code Generator is a simple web application that allows you to generate QR cod
 
 ## Demo
 
-You can access the live demo of the QR Code Generator [here](https://webmakerhardik.github.io/QR-Generator/).
+You can access the live demo of the QR Code Generator [here](https://github.com/Webmakerhardik/QR-code-Generator)).
 
 ## Features
 
@@ -33,7 +33,7 @@ As the QR Code Generator is a client-side application, you can use it directly w
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Webmakerhardik/QR-Generator
+git clone https://github.com/Webmakerhardik/QR-code-Generator
 ```
 
 2. Navigate to the project directory:
@@ -46,7 +46,7 @@ cd qr-code-generator
 
 ## Usage
 
-1. Open the QR Code Generator in your web browser by accessing the [live demo](https://github.com/Webmakerhardik/QR-Generator) or hosting it locally as described in the Installation section.
+1. Open the QR Code Generator in your web browser by accessing the [live demo](https://github.com/Webmakerhardik/QR-code-Generator) or hosting it locally as described in the Installation section.
 
 2. Enter the data for which you want to generate a QR code in the input field.
 
@@ -56,11 +56,11 @@ cd qr-code-generator
 
 ## Contributing
 
-Contributions to the QR Code Generator project are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request on the [GitHub repository](https://github.com/Webmakerhardik/QR-Generator).
+Contributions to the QR Code Generator project are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request on the [GitHub repository](https://github.com/Webmakerhardik/QR-code-Generator)).
 
 ## License
 
-This project is open-source and available under the [MIT License](https://github.com/Webmakerhardik/QR-Generator/blob/master/LICENSE).
+This project is open-source and available under the [MIT License](https://github.com/Webmakerhardik/QR-code-Generator)blob/master/LICENSE).
 
  ## Feature - Under Development
 
